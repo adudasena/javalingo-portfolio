@@ -28,7 +28,21 @@ export default function DocsGallery() {
       hint: "Clique para visualizar imagem e resumo",
       file: "caso-de-uso.png",
       desc:
-        "Principais casos de uso (Realizar Nivelamento, Fazer Missão, Avançar Nível, Trocar Skins) e atores envolvidos.",
+        "Principais casos de uso (Realizar Nivelamento, Fazer Missão, Trocar Skins) e atores envolvidos.",
+    },
+    {
+      name: "MVP",
+      hint: "Clique para visualizar imagem e resumo",
+      file: "mvp.png",
+      desc:
+        "MVP do JavaLingo, protótipo inicial do projeto.",
+    },
+       {
+      name: "Folder de divulgação",
+      hint: "Clique para visualizar imagem e resumo",
+      file: "folder.png",
+      desc:
+        "Folder utilizado para fazer a divulgação do propósito do aplicativo!",
     },
   ];
 
@@ -49,7 +63,7 @@ export default function DocsGallery() {
   return (
     <div>
       <h2 className="text-3xl mb-8 text-accent font-bold flex items-center gap-3">
-        <span role="img" aria-label="doc">📄</span> Documentação do Projeto.
+        <span role="img" aria-label="doc">📄</span> Documentação do Projeto
       </h2>
 
       {/* grid de documentos */}

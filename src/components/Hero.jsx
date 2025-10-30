@@ -18,7 +18,7 @@ export default function Hero() {
       </p>
       <div className="flex gap-4 mt-8">
         <a
-          href="https://javalingo.unifil.app"
+          href="https://apps.unifil.tech/posts/javalingo/"
           className="px-6 py-3 bg-accent rounded-full hover:shadow-[0_0_15px_#7c3aed] transition"
         >
           Acessar App
