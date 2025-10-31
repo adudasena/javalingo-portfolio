@@ -5,7 +5,7 @@ export default function TeamSection() {
       role: "Estudante de Ciência da Computação (UniFil- E1 2024)",
       image: "/team/luiz.jpeg",
     },
-        {
+    {
       name: "Maria Eduarda De Sena Ruiz",
       role: "Estudante de Ciência da Computação (UniFil- E1 2024)",
       image: "/team/duda2.jpeg",

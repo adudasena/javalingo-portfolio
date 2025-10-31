@@ -4,6 +4,7 @@ import VideoSection from "../components/VideoSection";
 import TeamSection from "../components/TeamSection";
 import Footer from "../components/Footer";
 import BackgroundFX from "../components/BackgroundFX";
+import TechSpecs from "../components/TechSpecs";
 
 export default function Home() {
   return (
@@ -13,6 +14,9 @@ export default function Home() {
       <section id="docs" className="w-full max-w-5xl py-20">
         <DocsGallery />
       </section>
+      <section id="techspecs" className="w-full max-w-5xl py-20">
+  <TechSpecs />
+</section>
       <section id="video" className="w-full max-w-5xl py-20">
         <VideoSection />
       </section>

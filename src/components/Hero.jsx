@@ -13,8 +13,20 @@ export default function Hero() {
       />
       <h1 className="text-4xl font-bold text-accent">JavaLingo 🚀</h1>
       <p className="text-lg mt-4 max-w-xl text-gray-300">
-        Jogo educacional gamificado para aprendizado de lógica e Java,
-        desenvolvido em Next.js com Firebase, com níveis, XP e loja de skins.
+<p className="text-gray-300 leading-relaxed max-w-2xl mx-auto text-lg">
+  <strong>JavaLingo</strong> é um jogo educacional gamificado voltado ao
+  aprendizado de lógica de programação e fundamentos de Java. Desenvolvido
+  em <strong>Next.js</strong> e <strong>Firebase</strong>, o projeto oferece
+  teste de nivelamento, progressão por XP e níveis, missões interativas e
+  loja de skins.
+</p>
+
+<p className="text-gray-300 leading-relaxed max-w-2xl mx-auto text-lg">
+  Com design moderno e responsivo, o JavaLingo aplica conceitos de
+  aprendizado ativo, incentivando o estudo de lógica e Java de forma leve,
+  divertida e intuitiva.
+</p>
+
       </p>
       <div className="flex gap-4 mt-8">
         <a

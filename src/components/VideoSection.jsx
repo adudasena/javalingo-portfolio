@@ -5,7 +5,7 @@ export default function VideoSection() {
       <div className="aspect-video w-full max-w-3xl rounded-xl overflow-hidden shadow-lg">
         <iframe
           className="w-full h-full"
-          src="https://www.youtube.com/embed/XXXXXXXXXXX"
+          src="https://www.youtube.com/embed/wWgP46z7LHw"
           title="Apresentação JavaLingo"
           allowFullScreen
         ></iframe>
